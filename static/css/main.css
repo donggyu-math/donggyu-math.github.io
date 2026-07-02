@@ -176,6 +176,10 @@ h3 {
   margin: 0;
 }
 
+.portrait picture {
+  display: block;
+}
+
 .portrait img {
   aspect-ratio: 4 / 5;
   background: #d9e2dc;

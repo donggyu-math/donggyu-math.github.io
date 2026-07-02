@@ -1,6 +1,6 @@
 # Donggyu Kim Homepage
 
-Personal homepage for `https://donggyu-math.github.io/`, built with Hugo and deployed with GitHub Pages.
+Personal homepage for `https://donggyu-math.github.io/`, built with Hugo and deployed with GitHub Pages Actions.
 
 ## Local preview
 
@@ -10,4 +10,4 @@ Install Hugo Extended, then run:
 hugo server
 ```
 
-The GitHub Actions workflow builds and deploys automatically after changes are pushed to the `main` branch.
+The repository tracks Hugo source files only. The GitHub Actions workflow builds `public/` and deploys it automatically after changes are pushed to the `main` branch.
