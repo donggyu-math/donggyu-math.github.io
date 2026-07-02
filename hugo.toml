@@ -1,0 +1,47 @@
+baseURL = "https://donggyu-math.github.io/"
+locale = "en-us"
+title = "Donggyu Kim"
+
+[params]
+  description = "Donggyu Kim is a postdoctoral fellow at Georgia Tech working on matroid theory and algebraic combinatorics."
+  author = "Donggyu Kim"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menus.main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+[[menus.main]]
+  name = "Research"
+  pageRef = "/research"
+  weight = 20
+
+[[menus.main]]
+  name = "Publications"
+  pageRef = "/research/publications"
+  weight = 30
+
+[[menus.main]]
+  name = "Talks"
+  pageRef = "/research/talks"
+  weight = 40
+
+[[menus.main]]
+  name = "Teaching"
+  pageRef = "/teaching"
+  weight = 50
+
+[[menus.main]]
+  name = "Services"
+  pageRef = "/services"
+  weight = 60
+
+[[menus.main]]
+  name = "Misc."
+  pageRef = "/misc"
+  weight = 70

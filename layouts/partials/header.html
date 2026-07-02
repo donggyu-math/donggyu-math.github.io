@@ -1,0 +1,11 @@
+<header class="site-header">
+  <a class="brand" href="{{ site.BaseURL }}">
+    <span class="brand-mark">DK</span>
+    <span>Donggyu Kim</span>
+  </a>
+  <nav class="site-nav" aria-label="Main navigation">
+    {{ range site.Menus.main }}
+      <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+    {{ end }}
+  </nav>
+</header>

@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <article class="page-shell">
+    <header class="page-header">
+      <p class="eyebrow">{{ with .Params.eyebrow }}{{ . }}{{ else }}Donggyu Kim{{ end }}</p>
+      <h1>{{ .Title }}</h1>
+      {{ with .Description }}<p>{{ . }}</p>{{ end }}
+    </header>
+    <div class="content">
+      {{ .Content }}
+    </div>
+  </article>
+{{ end }}

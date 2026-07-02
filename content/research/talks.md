@@ -1,0 +1,40 @@
+---
+title: "Talks"
+description: "Conference, workshop, and seminar presentations."
+eyebrow: "Research"
+weight: 20
+---
+
+<ul class="talk-list">
+<li><a href="https://icms.ac.uk/activities/workshop/simegg-structure-in-matroids-embedded-graphs-and-graphs/">Unimodular representations of ribbon graphs</a> - SiMEGG: Structure in Matroids, Embedded Graphs and Graphs, June 29-July 3, 2026, ICMS, Bayes Centre, Edinburgh, UK.</li>
+<li><a href="https://math.skku.edu/math/community/seminar.do?mode=view&articleNo=219155&article.offset=0&articleLimit=10">Theory of matroids with coefficients and its applications</a> - Special Seminar, June 18, 2026, Sungkyunkwan University, Suwon, South Korea.</li>
+<li><a href="https://www.auburn.edu/cosam/departments/math/cumberland-conference/index.htm">Grassmann-Pluecker functions for orthogonal matroids</a> - 34th Cumberland Conference, May 16-17, 2026, Auburn University, Auburn, AL, U.S.</li>
+<li><a href="https://meetings.ams.org/math/spring2026se/meetingapp.cgi/Paper/60141">Pseudo-orientable ribbon graphs: Matrix--Quasi-tree Theorem and log-concavity</a> - Special session on Algebraic Combinatorics at the AMS Sectional Meeting, March 28-29, 2026, Georgia Southern University in Savannah, GA, U.S.</li>
+<li><a href="https://www.auburn.edu/cosam/departments/math/research/seminars/combinatorics-seminar.htm">Pseudo-orientable ribbon graphs: Matrix--Quasi-tree Theorem and log-concavity</a> - Combinatorics Seminar, February 25, 2026, Auburn University, Auburn, Alabama, U.S.</li>
+<li><a href="http://ojkwon.com/seminar/">Representation theory for polymatroids</a> - Combinatorics Seminar at HY, January 8, 2026, Seoul, South Korea.</li>
+<li><a href="https://dimag.ibs.re.kr/2025/orthogonal-matroids/">Grassmann-Pluecker functions for orthogonal matroids</a> - Discrete Math Seminar at IBS DIMAG, December 26, 2025, Daejeon, South Korea.</li>
+<li><a href="http://events.kias.re.kr/h/combinatorics/?pageNo=6104">Representation theory for polymatroids</a> - 35th KIAS Combinatorics Workshop, December 22-24, 2025, Busan, South Korea.</li>
+<li><a href="https://math.gatech.edu/seminars-colloquia/series/combinatorics-seminar/donggyu-kim-20250912">Turan's theorem for Dowling geometries</a> - Combinatorics Seminar, September 12, 2025, Georgia Tech, Atlanta, Georgia, U.S. <a href="https://drive.google.com/file/d/13RrF28uRJyR3Mqo6tCftZqgiGEg2qRJW/view?usp=sharing">Slides</a>.</li>
+<li><a href="https://canadam.ca/2025">Group structures on spanning quasi-trees of ribbon graphs and regular orthogonal matroids</a> - CanaDAM 2025, May 20-23, 2025, University of Ottawa, Ottawa, Canada.</li>
+<li><a href="https://sites.google.com/yonsei.ac.kr/discrete-analysis-seminar">Torsor structures on spanning quasi-trees of ribbon graphs</a> - Discrete Analysis Seminar, February 28, Yonsei University, Seoul, South Korea.</li>
+<li><a href="https://www.ias.edu/math/events/geometry-matroids-workshop">Baker-Bowler theory for Lagrangian Grassmannians</a> - Geometry of Matroids Workshop, October 21-25, IAS, Princeton, New Jersey, U.S. <a href="https://www.youtube.com/watch?v=sUjPXpyXm08">YouTube</a>.</li>
+<li><a href="https://cw2024.combinatorics.kr/">Two ways to generalize matroids with coefficients</a> - 2024 Combinatorics Workshop, August 28-30, Chung Buk National University, Cheongju, South Korea.</li>
+<li><a href="https://indico.ibs.re.kr/event/652/">Baker-Bowler theory for Lagrangian Grassmannians</a> - 2024 Workshop on (Mostly) Matroids, August 19-23, 2024, IBS, Daejeon, South Korea.</li>
+<li><a href="https://www.siam.org/conferences/cm/conference/dm24">Baker-Bowler theory for Lagrangian Grassmannians</a> - SIAM Conference on Discrete Mathematics, July 08-11, 2024, Spokane, Washington, U.S.</li>
+<li><a href="https://www.kms.or.kr/conference/2024_spring/">Baker-Bowler theory for Lagrangian Grassmannians</a> - 2024 KMS Spring Meeting, April 18-20, 2024, Daejeon, South Korea. <a href="https://dimag.ibs.re.kr/home/donggyu/wp-content/uploads/sites/16/2024/04/KMS240419_Donggyu-Kimmod.pdf">Slides</a>.</li>
+<li>Baker-Bowler theory for Lagrangian Grassmannians - Joint seminar Atlanta-Groningen, April 15, 2024, Online.</li>
+<li>Twin-width of random graphs - Combinatorics Seminar in Yeungnam University, March 18, 2024, Gyeongsan, Gyeongbuk, South Korea.</li>
+<li>Orthogonal matroids over tracts - 30th KIAS Combinatorics Workshop, March 08-09, 2024, Seoul, South Korea. <a href="https://drive.google.com/file/d/15TBOhmkfTgL7J4Vm6e3Ic-OEjkIJKSxC/view?usp=sharing">Slides</a>.</li>
+<li><a href="https://www.kms.or.kr/conference/2023_fall/">Hamiltonicity of basis graphs of even delta-matroids</a> - 2023 KMS Annual Meeting, October 26-28, 2023, Seoul, South Korea.</li>
+<li><a href="https://dimag.ibs.re.kr/2023/orthorgonal-matroid-over-tracts/">Orthogonal matroids over tracts</a> - Discrete Math Seminar at IBS Discrete Mathematics Group, September 19, 2023, South Korea. <a href="https://www.youtube.com/watch?v=ihB2B1cQNvo">YouTube</a>.</li>
+<li><a href="https://www.canadam.ca/">Prime vertex-minors of prime graphs</a> - CanaDAM 2023, June 05-08, 2023, Winnipeg, Manitoba, Canada.</li>
+<li><a href="https://www.kms.or.kr/conference/2023_spring/">Orthogonal matroids over tracts</a> - 2023 KMS Spring Meeting, April 27-29, 2023, Daejeon, South Korea.</li>
+<li>(Poster) Orthogonal Matroids over Tracts - IBS ECOPRO and DIMAG poster day, April 2022.</li>
+<li><a href="https://sites.google.com/view/wymk2022/">Matroid theory arising from projective geometry</a> - Workshop for Young Mathematicians in Korea 2022, Dec 03-04, 2022, KAIST, Daejeon, South Korea.</li>
+<li><a href="https://sites.google.com/view/2022-student-symposium-comb/home">Stronger versions of Tutte's wheel theorem for vertex-/pivot-minors</a> - Student Symposium in Combinatorics 2022, May 30-June 03, 2022, Australia.</li>
+<li><a href="https://ksiam.org/Conference/ConferenceView.asp?AC=0&CODE=CC20220325&CpPage=#CONF">(Poster) Gamma-graphic delta-matroids and their applications</a> - 2022 KSIAM Spring Conference, May 27-29, 2022, IBS, Daejeon, South Korea.</li>
+<li><a href="https://www.kms.or.kr/md_meet/main.html?period=78">A stronger version of Tutte's wheel theorem for vertex-minors</a> - 2022 KMS Spring Meeting, April 28-29, 2022, South Korea.</li>
+<li><a href="https://dimag.ibs.re.kr/2022/donggyu-kim-vertex-minors/">A stronger version of Tutte's wheel theorem for vertex-minors</a> - Discrete Math Seminar at IBS Discrete Mathematics Group, Feb 21, 2022, South Korea. <a href="https://www.youtube.com/watch?v=6M-NvFwUVQU">YouTube</a>.</li>
+<li>Eigenvalues and parity factors in graphs - KAIST Math Graduate student Seminar, November 25, 2021, KAIST, South Korea; and 2021 China-Korea Young Scholars' Symposium on Discrete Mathematics, Statistics and Optimization, November 13-14, 2021.</li>
+<li><a href="https://dimag.ibs.re.kr/2021/donggyu-kim-seminar/">Gamma-graphic delta-matroids and their applications</a> - Discrete Math Seminar at IBS Discrete Mathematics Group, October 26, 2021, South Korea. <a href="https://www.youtube.com/watch?v=Gd_wV1pA96I">YouTube</a>; and 2021 KMS Annual Meeting, October 20-22, 2021.</li>
+</ul>

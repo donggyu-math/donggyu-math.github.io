@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <section class="page-shell">
+    <header class="page-header">
+      <p class="eyebrow">{{ with .Params.eyebrow }}{{ . }}{{ else }}Donggyu Kim{{ end }}</p>
+      <h1>{{ .Title }}</h1>
+      {{ with .Description }}<p>{{ . }}</p>{{ end }}
+    </header>
+    <div class="content">
+      {{ .Content }}
+      {{ if .Pages }}
+        <div class="link-grid">
+          {{ range .Pages.ByWeight }}
+            <a class="feature-link" href="{{ .RelPermalink }}">
+              <span>{{ .Title }}</span>
+              {{ with .Description }}<small>{{ . }}</small>{{ end }}
+            </a>
+          {{ end }}
+        </div>
+      {{ end }}
+    </div>
+  </section>
+{{ end }}
