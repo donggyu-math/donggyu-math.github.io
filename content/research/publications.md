@@ -26,7 +26,7 @@ weight: 10
 <li>Gamma-graphic delta-matroids and their applications (with <a href="https://dimag.ibs.re.kr/home/duksang/">Duksang Lee</a> and <a href="https://dimag.ibs.re.kr/home/sangil/">Sang-il Oum</a>), in the proceedings of <a href="https://tcs.inf.kyushu-u.ac.jp/isaac2021/">ISAAC 2021</a>, Article No. 70; pp. 70:1-70:13, 2021. DOI: <a href="https://doi.org/10.4230/LIPIcs.ISAAC.2021.70">10.4230/LIPIcs.ISAAC.2021.70</a>. <em>Combinatorica</em>, 43(5):963-983, October 2023. DOI: <a href="https://doi.org/10.1007/s00493-023-00043-6">10.1007/s00493-023-00043-6</a>, arXiv: <a href="https://arxiv.org/abs/2104.11383">2104.11383</a>.</li>
 </ol>
 
-<p><a class="button-link" href="https://drive.google.com/file/d/1Nnag5CFvyKZ0Oz8q7DClGAAJ8sSJaFc1/view?usp=drive_link">Ph.D. Dissertation</a></p>
+<p><a class="button-link" href="/files/phd-dissertation.pdf">Ph.D. Dissertation</a></p>
 
 ## List of co-authors
 
