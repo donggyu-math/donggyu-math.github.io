@@ -11,10 +11,16 @@
     </div>
   </div>
   <figure class="portrait">
-    <picture>
-      <source srcset="{{ "images/donggyu-profile.webp" | relURL }}" type="image/webp">
-      <img src="{{ "images/donggyu-profile.jpg" | relURL }}" alt="Donggyu Kim by the waterfront">
-    </picture>
+    <div class="portrait-frame">
+      <picture>
+        <source srcset="{{ "images/donggyu-profile.webp" | relURL }}" type="image/webp">
+        <img src="{{ "images/donggyu-profile.jpg" | relURL }}" alt="Donggyu Kim by the waterfront">
+      </picture>
+      <picture class="portrait-hover" aria-hidden="true">
+        <source srcset="{{ "images/matroid-hover.webp" | relURL }}" type="image/webp">
+        <img src="{{ "images/matroid-hover.png" | relURL }}" alt="">
+      </picture>
+    </div>
     <figcaption>June 2025</figcaption>
   </figure>
 </section>

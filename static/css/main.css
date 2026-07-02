@@ -176,18 +176,34 @@ h3 {
   margin: 0;
 }
 
+.portrait-frame {
+  background: #d9e2dc;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  position: relative;
+}
+
 .portrait picture {
   display: block;
 }
 
 .portrait img {
   aspect-ratio: 4 / 5;
-  background: #d9e2dc;
-  border-radius: 8px;
-  box-shadow: var(--shadow);
   display: block;
   object-fit: cover;
   width: 100%;
+}
+
+.portrait-hover {
+  inset: 0;
+  opacity: 0;
+  position: absolute;
+  transition: opacity 320ms ease;
+}
+
+.portrait-frame:hover .portrait-hover {
+  opacity: 1;
 }
 
 .portrait figcaption {
