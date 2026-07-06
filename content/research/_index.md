@@ -9,7 +9,7 @@ weight: 20
 
 <div class="note-card">
 <h3>The Jacobian of a regular orthogonal matroid and torsor structures on spanning quasi-trees of ribbon graphs</h3>
-<p>With <a href="https://sites.google.com/view/mattbakermath/home/">Matthew Baker</a> and <a href="https://dingchangxin.github.io/website/">Changxin Ding</a>. Accepted for publication in <em>Adv. Math.</em>, arXiv: <a href="https://arxiv.org/abs/2501.08796">2501.08796</a>, 2025.</p>
+<p>With <a href="https://sites.google.com/view/mattbakermath/home/">Matthew Baker</a> and <a href="https://dingchangxin.github.io/website/">Changxin Ding</a>. <em>Adv. Math.</em>, arXiv: <a href="https://arxiv.org/abs/2501.08796">2501.08796</a>, 2025.</p>
 <p>We show that the set of spanning quasi-trees of a ribbon graph inherits a group structure from its Jacobian group without the distinguished identity element. It extends the same results for plane graphs by Chan-Church-Grochow and Baker-Wang, casting light on the role of embeddings of graphs.</p>
 <p>A generalized <a href="https://en.wikipedia.org/wiki/Farkas%27_lemma">Farkas Lemma</a> for oriented orthogonal matroids is proved and used as a key lemma. It follows from the signed circuit axiom of oriented orthogonal matroids, as established in <a href="https://arxiv.org/abs/2303.05353">Orthogonal matroids over tracts</a>.</p>
 </div>
