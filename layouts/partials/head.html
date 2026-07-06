@@ -15,6 +15,9 @@
 <meta name="twitter:title" content="{{ $title }}">
 <meta name="twitter:description" content="{{ $description }}">
 <title>{{ $title }}</title>
+{{ if eq .RelPermalink "/" }}
+<link rel="preload" as="image" href="{{ "images/donggyu-profile-768.webp" | relURL }}" imagesrcset="{{ "images/donggyu-profile-480.webp" | relURL }} 480w, {{ "images/donggyu-profile-768.webp" | relURL }} 768w, {{ "images/donggyu-profile.webp" | relURL }} 960w" imagesizes="(max-width: 860px) min(420px, 100vw - 40px), 430px" type="image/webp">
+{{ end }}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">

@@ -1,0 +1,42 @@
+<div class="publication-tools" data-search-root>
+  <label for="paper-search">Search papers</label>
+  <div class="search-box">
+    <input id="paper-search" type="search" inputmode="search" autocomplete="off" placeholder="Title, coauthor, journal, year, arXiv..." data-search-input>
+  </div>
+  <p class="search-count" data-search-count>Showing all papers</p>
+</div>
+
+<ol class="publication-list searchable-list" data-search-list>
+  {{ range hugo.Data.research.papers }}
+    {{ $paper := . }}
+    {{ $authorNames := slice }}
+    {{ range $paper.authors }}
+      {{ $authorNames = $authorNames | append .name }}
+    {{ end }}
+    {{ $search := delimit (slice $paper.title $paper.year $paper.published $paper.doi $paper.arxiv (delimit $authorNames " ")) " " }}
+    <li data-search-item data-search-text="{{ $search | plainify | lower }}">
+      <article class="publication-entry">
+        <p class="publication-meta">
+          <span>{{ $paper.year }}</span>
+          {{ with $paper.published }}<span>{{ . }}</span>{{ end }}
+        </p>
+        <h3>{{ $paper.title | safeHTML }}</h3>
+        {{ with $paper.authors }}
+          <p class="publication-authors">with
+            {{ range $index, $author := . }}{{ if gt $index 0 }}, {{ end }}{{ if $author.url }}<a href="{{ $author.url }}">{{ $author.name }}</a>{{ else }}{{ $author.name }}{{ end }}{{ end }}
+          </p>
+        {{ end }}
+        <p class="paper-links">
+          {{ with $paper.doi }}
+            {{ $doiURL := cond (isset $paper "doi_url") $paper.doi_url (printf "https://doi.org/%s" .) }}
+            <a href="{{ $doiURL }}">DOI</a>
+          {{ end }}
+          {{ with $paper.arxiv }}<a href="https://arxiv.org/abs/{{ . }}">arXiv</a>{{ end }}
+          {{ range $paper.extra_links }}<a href="{{ .url }}">{{ .label }}</a>{{ end }}
+        </p>
+      </article>
+    </li>
+  {{ end }}
+</ol>
+<p class="search-empty" hidden data-search-empty>No papers match this search.</p>
+<script defer src="{{ "js/research-search.js" | relURL }}"></script>

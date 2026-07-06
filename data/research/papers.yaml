@@ -1,0 +1,156 @@
+- title: "Pseudo-orientable ribbon graphs: Matrix--Quasi-tree Theorem and log-concavity"
+  year: "2026"
+  authors:
+    - name: "Changxin Ding"
+      url: "https://dingchangxin.github.io/website/"
+  arxiv: "2603.05702"
+
+- title: "Graphs whose Eulerian trails have unique labels"
+  year: "2026"
+  authors:
+    - name: "Rose McCarty"
+      url: "https://mccarty.math.gatech.edu/"
+    - name: "Caleb McFarland"
+      url: "https://sites.google.com/view/caleb-mcfarland/"
+  arxiv: "2603.02501"
+
+- title: "Grassmann-Pl&uuml;cker functions for orthogonal matroids"
+  year: "2026"
+  authors:
+    - name: "Changxin Ding"
+      url: "https://dingchangxin.github.io/website/"
+  arxiv: "2601.19830"
+
+- title: "Representation theory of polymatroids"
+  year: "2025"
+  authors:
+    - name: "Matthew Baker"
+      url: "https://sites.google.com/view/mattbakermath/home/"
+    - name: "June Huh"
+      url: "https://web.math.princeton.edu/~huh/"
+    - name: "Mario Kummer"
+      url: "https://scholar.google.com/citations?user=CwJGMigAAAAJ&hl"
+    - name: "Oliver Lorscheid"
+      url: "https://www.lorscheid.org/"
+  arxiv: "2507.14718"
+
+- title: "Turan's theorem for Dowling geometries"
+  year: "2025"
+  authors:
+    - name: "Rutger Campbell"
+      url: "https://dimag.ibs.re.kr/home/campbell/"
+    - name: "Jorn van der Pol"
+      url: "https://people.utwente.nl/j.g.vanderpol"
+  arxiv: "2508.20843"
+
+- title: "Reconstructing hypergraph matching polynomials"
+  year: "2025"
+  authors:
+    - name: "Hyunwoo Lee"
+      url: "https://sites.google.com/view/hyunwoo-lee"
+  arxiv: "2501.19081"
+
+- title: "The Jacobian of a regular orthogonal matroid and torsor structures on spanning quasi-trees of ribbon graphs"
+  year: "2025"
+  published: "Adv. Math., September 2026"
+  authors:
+    - name: "Matthew Baker"
+      url: "https://sites.google.com/view/mattbakermath/home/"
+    - name: "Changxin Ding"
+      url: "https://dingchangxin.github.io/website/"
+  doi: "10.1016/j.aim.2026.111099"
+  arxiv: "2501.08796"
+
+- title: "Baker-Bowler theory for Lagrangian Grassmannians"
+  year: "2025"
+  published: "Int. Math. Res. Not. IMRN, April 2025"
+  doi: "10.1093/imrn/rnaf094"
+  arxiv: "2403.02356"
+
+- title: "Orthogonal matroids over tracts"
+  year: "2025"
+  published: "Forum Math. Sigma, August 2025"
+  authors:
+    - name: "Tong Jin"
+      url: "https://sites.google.com/view/jintong/home"
+  doi: "10.1017/fms.2025.10085"
+  arxiv: "2303.05353"
+
+- title: "Note on Hamiltonicity of basis graphs of even delta-matroids"
+  year: "2025"
+  published: "J. Graph Theory, March 2025"
+  authors:
+    - name: "Sang-il Oum"
+      url: "https://dimag.ibs.re.kr/home/sangil/"
+  doi: "10.1002/jgt.23237"
+  doi_url: "https://onlinelibrary.wiley.com/doi/10.1002/jgt.23237"
+  arxiv: "2308.05772"
+
+- title: "Twin-width of random graphs"
+  year: "2024"
+  published: "Random Structures Algorithms, June 2024"
+  authors:
+    - name: "Jungho Ahn"
+      url: "https://dimag.ibs.re.kr/home/jungho/"
+    - name: "Debsoumya Chakraborti"
+      url: "https://dimag.ibs.re.kr/home/debsoumya/"
+    - name: "Kevin Hendrey"
+      url: "http://sites.google.com/view/kevinhendrey"
+    - name: "Sang-il Oum"
+      url: "https://dimag.ibs.re.kr/home/sangil/"
+  doi: "10.1002/rsa.21247"
+  arxiv: "2212.07880"
+
+- title: "Vertex-minors of graphs: A survey"
+  year: "2024"
+  published: "Discrete Appl. Math., July 2024"
+  authors:
+    - name: "Sang-il Oum"
+      url: "https://dimag.ibs.re.kr/home/sangil/"
+  doi: "10.1016/j.dam.2024.03.011"
+
+- title: "Prime vertex-minors of a prime graph"
+  year: "2024"
+  published: "European J. Combin., 118:103871, May 2024"
+  authors:
+    - name: "Sang-il Oum"
+      url: "https://dimag.ibs.re.kr/home/sangil/"
+  doi: "10.1016/j.ejc.2023.103871"
+  arxiv: "2202.07877"
+
+- title: "Eigenvalues and parity factors in graphs with given minimum degree"
+  year: "2023"
+  published: "Discrete Math., 346(4):113290, April 2023"
+  authors:
+    - name: "Suil O"
+      url: "https://sites.google.com/view/suiloh"
+  doi: "10.1016/j.disc.2022.113290"
+  arxiv: "2111.12966"
+
+- title: "Bounds for the Twin-width of Graphs"
+  year: "2022"
+  published: "SIAM J. Discrete Math., 36(3):2352-2366, 2022"
+  authors:
+    - name: "Jungho Ahn"
+      url: "https://dimag.ibs.re.kr/home/jungho/"
+    - name: "Kevin Hendrey"
+      url: "https://sites.google.com/view/kevinhendrey"
+    - name: "Sang-il Oum"
+      url: "http://dimag.ibs.re.kr/home/sangil/"
+  doi: "10.1137/21M1452834"
+  arxiv: "2110.03957"
+
+- title: "Gamma-graphic delta-matroids and their applications"
+  year: "2021"
+  published: "ISAAC 2021; Combinatorica, 43(5):963-983, October 2023"
+  authors:
+    - name: "Duksang Lee"
+      url: "https://dimag.ibs.re.kr/home/duksang/"
+    - name: "Sang-il Oum"
+      url: "https://dimag.ibs.re.kr/home/sangil/"
+  doi: "10.1007/s00493-023-00043-6"
+  doi_url: "https://doi.org/10.1007/s00493-023-00043-6"
+  arxiv: "2104.11383"
+  extra_links:
+    - label: "ISAAC DOI"
+      url: "https://doi.org/10.4230/LIPIcs.ISAAC.2021.70"

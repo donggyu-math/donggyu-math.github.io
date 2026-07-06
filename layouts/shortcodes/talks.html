@@ -1,0 +1,15 @@
+<ul class="talk-list structured-talk-list">
+  {{ range hugo.Data.research.talks }}
+    <li>
+      <article class="talk-entry">
+        <h3>{{ if .url }}<a href="{{ .url }}">{{ .title | safeHTML }}</a>{{ else }}{{ .title | safeHTML }}{{ end }}</h3>
+        <p>{{ .event }}{{ with .date }} · {{ . }}{{ end }}{{ with .location }} · {{ . }}{{ end }}</p>
+        {{ with .links }}
+          <p class="paper-links">
+            {{ range . }}<a href="{{ .url }}">{{ .label }}</a>{{ end }}
+          </p>
+        {{ end }}
+      </article>
+    </li>
+  {{ end }}
+</ul>
