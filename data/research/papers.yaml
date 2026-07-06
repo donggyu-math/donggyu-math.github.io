@@ -14,8 +14,9 @@
       url: "https://sites.google.com/view/caleb-mcfarland/"
   arxiv: "2603.02501"
 
-- title: "Grassmann-Pl&uuml;cker functions for orthogonal matroids"
+- title: "Grassmann-Plücker functions for orthogonal matroids"
   year: "2026"
+  keywords: "pluecker plucker"
   authors:
     - name: "Changxin Ding"
       url: "https://dingchangxin.github.io/website/"

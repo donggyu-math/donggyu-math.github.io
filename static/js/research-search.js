@@ -1,6 +1,6 @@
 (function () {
   function normalize(value) {
-    return value.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim().replace(/\s+/g, " ");
+    return value.toLowerCase().replace(/&uuml;/g, "ue").normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim().replace(/\s+/g, " ");
   }
 
   function updateSearch(root) {
