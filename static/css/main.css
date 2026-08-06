@@ -258,6 +258,7 @@ h3 {
 }
 
 .paper-card,
+.talk-card,
 .feature-link,
 .note-card {
   background: var(--paper);
@@ -273,9 +274,33 @@ h3 {
   padding: 24px;
 }
 
-.paper-card p {
+.paper-card p,
+.talk-card p {
   color: var(--muted);
   margin: 0;
+}
+
+.upcoming-talks {
+  border-top: 1px solid var(--line);
+}
+
+.talk-card {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  min-height: 190px;
+  padding: 24px;
+}
+
+.talk-card h3 {
+  margin: 0;
+}
+
+.talk-status {
+  color: var(--teal) !important;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
 }
 
 .paper-links {
