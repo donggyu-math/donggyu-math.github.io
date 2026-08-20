@@ -23,6 +23,7 @@ The homepage links to `static/files/cv.pdf`. After exporting a fresh CV to:
 update the website copy and run a local Hugo build check when Hugo is available:
 
 ```bash
+cd /Users/family/Documents/homepage
 ./scripts/update-cv.sh
 ```
 
