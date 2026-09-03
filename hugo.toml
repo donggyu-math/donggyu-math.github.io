@@ -3,7 +3,7 @@ locale = "en-us"
 title = "Donggyu Kim"
 
 [params]
-  description = "Donggyu Kim is a postdoctoral fellow at Georgia Tech working on matroid theory and algebraic combinatorics."
+  description = "Donggyu Kim is an Assistant Professor in the Department of Mathematics at Hanyang University, working on matroid theory and algebraic combinatorics."
   author = "Donggyu Kim"
 
 [markup]
