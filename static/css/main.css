@@ -106,7 +106,19 @@ main {
 }
 
 .hero-copy {
-  align-self: center;
+  align-self: end;
+  container-type: inline-size;
+  padding-bottom: 34px;
+}
+
+.hero-copy h1 {
+  font-size: clamp(1.5rem, 11cqw, 3.75rem);
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.hero-copy h1 + .lead {
+  margin-top: 56px;
 }
 
 .eyebrow {
@@ -559,6 +571,14 @@ h3 {
 
   .hero {
     min-height: auto;
+  }
+
+  .hero-copy {
+    padding-bottom: 0;
+  }
+
+  .hero-copy h1 + .lead {
+    margin-top: 32px;
   }
 
   .portrait {
