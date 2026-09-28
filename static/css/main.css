@@ -152,6 +152,11 @@ h3 {
   margin-top: 30px;
 }
 
+.seminar-note {
+  color: var(--muted);
+  margin: 24px 0 0;
+}
+
 .hero-actions a,
 .paper-links a,
 .button-link {
