@@ -13,12 +13,13 @@
     {{ range $paper.authors }}
       {{ $authorNames = $authorNames | append .name }}
     {{ end }}
-    {{ $search := delimit (slice $paper.title $paper.year $paper.published $paper.doi $paper.arxiv $paper.keywords (delimit $authorNames " ")) " " }}
+    {{ $search := delimit (slice $paper.title $paper.year $paper.published $paper.status $paper.doi $paper.arxiv $paper.keywords (delimit $authorNames " ")) " " }}
     <li data-search-item data-search-text="{{ $search | plainify | lower }}">
       <article class="publication-entry">
         <p class="publication-meta">
           <span>{{ $paper.year }}</span>
           {{ with $paper.published }}<span>{{ . }}</span>{{ end }}
+          {{ with $paper.status }}<span>{{ . }}</span>{{ end }}
         </p>
         <h3>{{ $paper.title | safeHTML }}</h3>
         {{ with $paper.authors }}
