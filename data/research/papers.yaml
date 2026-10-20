@@ -16,10 +16,11 @@
 
 - title: "Pseudo-orientable ribbon graphs: Matrix--Quasi-tree Theorem and log-concavity"
   year: "2026"
-  status: "Accepted for publication in European J. Combin."
+  published: "European J. Combin., 139:104464, January 2027"
   authors:
     - name: "Changxin Ding"
       url: "https://dingchangxin.github.io/website/"
+  doi: "10.1016/j.ejc.2026.104464"
   arxiv: "2603.05702"
 
 - title: "Graphs whose Eulerian trails have unique labels"
@@ -54,6 +55,7 @@
 
 - title: "Turan's theorem for Dowling geometries"
   year: "2025"
+  status: "Accepted for publication in Electron. J. Combin."
   authors:
     - name: "Rutger Campbell"
       url: "https://dimag.ibs.re.kr/home/campbell/"
